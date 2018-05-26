@@ -1,3 +1,7 @@
+# TRF_IDE
+
+TRF IDE is based on Arduino Open Source IDE.
+
 Arduino
 ========
 
@@ -53,7 +57,4 @@ and [Wiring](http://wiring.org.co).
 Icon and about image designed by [ToDo](https://www.todo.to.it/)
 
 =======
-# TRF_IDE
-
-TRF IDE is based on Arduino Open Source IDE.
 >>>>>>> 2aa2323c05cafc98738d5542e8da4ceff521a0e2
