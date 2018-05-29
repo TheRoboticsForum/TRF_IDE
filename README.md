@@ -44,6 +44,8 @@ Arduino is an open source project, supported by many.
 The Arduino team is composed of Massimo Banzi, David Cuartielles, Tom Igoe
 and David A. Mellis.
 
+Blockly@rduino: https://github.com/BlocklyDuino/BlocklyDuino fro creating awesome block programming module for Arduino.
+
 Arduino uses
 [GNU avr-gcc toolchain](https://gcc.gnu.org/wiki/avr-gcc),
 [GCC ARM Embedded toolchain](https://launchpad.net/gcc-arm-embedded),
@@ -55,6 +57,3 @@ and code from [Processing](https://www.processing.org)
 and [Wiring](http://wiring.org.co).
 
 Icon and about image designed by [ToDo](https://www.todo.to.it/)
-
-=======
->>>>>>> 2aa2323c05cafc98738d5542e8da4ceff521a0e2
